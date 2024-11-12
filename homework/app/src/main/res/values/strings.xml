@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">homework</string>
+    <string name="first_button_text">Go to the second screen</string>
+    <string name="second_button_text">Go to the third screen</string>
+    <string name="standard_text">Hello world!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edit_text_hint">Enter a message</string>
+    <string name="bottom_sheet_et_hint">Enter a bottom sheet message</string>
+    <string name="third_button_text">Open Bottom Sheet</string>
+    <string name="bottom_sheet_btm_text">Print bottom sheet message</string>
+
+</resources>
