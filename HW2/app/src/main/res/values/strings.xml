@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string name="add_several_btn_text">Add several</string>
+    <string name="remove_several_btn_text">Remove several</string>
+    <string name="add_single_btn_text">Add single</string>
+    <string name="remove_single_btn_text">Remove single</string>
+    <string name="text_input_et_hint">Enter the quantity of elements</string>
+    <string name="open_bottom_sheet_fap_content_description">opens changing dataset bottom sheet</string>
+    <string name="picture_iv_rv_description">picture in the item of rv</string>
+    <string name="list_button_text">List</string>
+    <string name="grid_button_text">Grid</string>
+    <string name="item_info_fragment_image_iv_description">Image on the item info fragment</string>
+</resources>
