@@ -1,0 +1,21 @@
+<resources>
+
+    <string-array name="notification_level_array">
+        <item>Max</item>
+        <item>High</item>
+        <item>Default</item>
+        <item>Low</item>
+    </string-array>
+
+    <string name="app_name">HW4ThemesNotifications</string>
+    <string name="ImageViewText">Circle Photo</string>
+    <string name="notification_title_helper_text">Заголовок уведомления</string>
+    <string name="et_hint">Введите текст</string>
+    <string name="notification_text_helper_text">Текст уведомления</string>
+    <string name="menu_button_hint">Приоритетность уведомления</string>
+    <string name="show_notif_text">Показать уведомление</string>
+    <string name="reset_theme_btn_text">Сбросить цвет</string>
+    <string name="remove_photo_content_description">Remove photo</string>
+    <string name="item_color_content_description">Theme option</string>
+    <string name="show_theme_options_content_desc">Show theme options</string>
+</resources>

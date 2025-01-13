@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+
+    <style name="Base.Theme.HW4ThemesNotifications" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/blue</item>
+    </style>
+
+    <style name="Theme.HW4ThemesNotifications.Pink" parent="Base.Theme.HW4ThemesNotifications">
+        <item name="colorPrimary">@color/pink</item>
+    </style>
+
+    <style name="Theme.HW4ThemesNotifications.Yellow" parent="Base.Theme.HW4ThemesNotifications">
+        <item name="colorPrimary">@color/yellow</item>
+    </style>
+
+    <style name="Theme.HW4ThemesNotifications.Green" parent="Base.Theme.HW4ThemesNotifications">
+        <item name="colorPrimary">@color/green</item>
+    </style>
+
+</resources>
